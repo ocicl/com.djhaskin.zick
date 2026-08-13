@@ -1,0 +1,9 @@
+* com.djhaskin.zick
+
+Zip files In Concert: package manager for source-code repos.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/djha-skin/zick.git      |
+| commit  | 0000000                                        |
+| systems | com.djhaskin.zick                              |
+|---------+------------------------------------------------|
