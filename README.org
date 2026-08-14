@@ -4,6 +4,6 @@ Zip files In Concert: package manager for source-code repos.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/djha-skin/zick.git      |
-| commit  | 1688544                                        |
+| commit  | ad7eb6f                                        |
 | systems | com.djhaskin.zick                              |
 |---------+------------------------------------------------|
